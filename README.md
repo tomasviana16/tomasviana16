@@ -3,7 +3,7 @@
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasviana16&show_icons=true&theme=dark&show_icons=true)
 
-### ╰┈➤ [Find me on Linkendin  	](https://linkedin.com/in/tomás-viana-9069a0357)
+### ╰┈➤ [Find me on Linkedin  	](https://linkedin.com/in/tomás-viana-9069a0357)
            
           
           
