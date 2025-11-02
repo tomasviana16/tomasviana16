@@ -11,7 +11,8 @@
 
 
 ##  <p align="center">✦. ─Tech Stack─ .✦</p>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ╰┈➤
+![c](https://www.readmecodegen.com/api/social-icon?name=c&size=40&color=2aa889) ![cplusplus](https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=40&color=2aa889) ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=40&color=2aa889)
 
 ##  <p align="center">✦. ─My GitHub stats─ .✦</p>
 <table width="100%">
